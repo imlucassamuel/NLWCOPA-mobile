@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p>Semana NLW #04</p>
+  <p>Semana NLW COPA</p>
 </h1>
 
 <p align="center">
